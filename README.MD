@@ -1,4 +1,4 @@
-#### Just a barebone Jest test enviroment for testing I can pull anywhere /gg
+#### Just a barebone Jest testing enviroment I can pull anywhere /gg
 
 ##### install
 > npm i
